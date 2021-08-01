@@ -1,0 +1,20 @@
+PODS:
+  - BrightFutures (8.1.0)
+  - SceneKitVideoRecorder (1.6.0):
+    - BrightFutures
+
+DEPENDENCIES:
+  - SceneKitVideoRecorder
+
+SPEC REPOS:
+  trunk:
+    - BrightFutures
+    - SceneKitVideoRecorder
+
+SPEC CHECKSUMS:
+  BrightFutures: 6a974d08b121658dc0e6b93f5dec5353f9c24a44
+  SceneKitVideoRecorder: 33e4ae8148f4633cf8a965c903c81f35ade4db88
+
+PODFILE CHECKSUM: 0074eb315cb0b2f3c7121d592c11f6f6c38693b6
+
+COCOAPODS: 1.10.1
